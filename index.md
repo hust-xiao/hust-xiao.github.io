@@ -46,5 +46,5 @@ Jing-Tao Lü, Nuo Yang*, arXiv:2209.09694 (2022).
 
 ### Contact
 
-- Email：xiao_wan@hust.edu.cn
+- Email：<xiao_wan@hust.edu.cn>
 - Address：1037 Luoyu Ave, Wuhan, Hubei, China, 430074
