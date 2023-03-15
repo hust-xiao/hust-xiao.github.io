@@ -4,7 +4,7 @@ An initiative seeker.
 
 Google Scholar：[@Xiao Wan (万骁)](https://scholar.google.com.sg/citations?user=ldwbbL0AAAAJ&hl=en)
 
-<img width="200" alt="profile" src="https://user-images.githubusercontent.com/26539606/209074964-42ec34aa-3da7-44d9-bbcc-6b797869c0c1.jpg">
+<img width="150" alt="profile" src="https://user-images.githubusercontent.com/26539606/209074964-42ec34aa-3da7-44d9-bbcc-6b797869c0c1.jpg">
 
 ### Education
 
