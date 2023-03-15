@@ -38,8 +38,8 @@ Jing-Tao Lü, Sebastian Volz, Lifa Zhang, Qing Hao, Yangjun Qin, Zhicheng Zong, 
 
 ### Research Interests
 
-- Organic chemistry, especially conducting polymers and biodegradable polymers
-- Thermoelectric device building and testing
+- Organic materials, especially conducting polymers
+- Graphene and its derivatives
 - Molecular dynamics simulations
 - Machine learning
 - Quantum field theory
