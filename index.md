@@ -29,7 +29,7 @@ Google Scholar：[@Xiao Wan (万骁)](https://scholar.google.com.sg/citations?us
 ### Research Papers
 
 1. [Manipulating thermal conductivity via targeted phonon excitation](https://arxiv.org/abs/2209.09694), **Xiao Wan<sup>#</sup>**, Dongkai Pan<sup>#</sup>,
-Jing-Tao Lü, Sebastian Volz, Lifa Zhang, Qing Hao, Yangjun Qin, Zhicheng Zong, Nuo Yang*, arXiv:2209.09694 (2022). (PRL submitted)
+Jing-Tao Lü, Sebastian Volz, Lifa Zhang, Qing Hao, Yangjun Qin, Zhicheng Zong, Nuo Yang*, arXiv:2209.09694 (2022). (PRL under review)
 2. [Optimizing thermal transport in graphene nanoribbon based on phonon resonance hybridization](https://www.sciencedirect.com/science/article/pii/S2542529321001061), **Xiao Wan<sup>#</sup>**, Dengke Ma<sup>#</sup>, Dongkai Pan, Lina Yang, Nuo Yang*, Materials Today Physics 20, 100445 (2021).
 3. [Thermal conductivities and mechanical properties of epoxy resin as a function of the degree of cross-linking](https://www.sciencedirect.com/science/article/pii/S0017931021009261), **Xiao Wan<sup>#</sup>**, Baris Demir<sup>#</sup>, Meng An, Tiffany R.Walsh\*, Nuo Yang\*, International Journal of Heat and Mass Transfer 180, 121821 (2021).
 4. [Materials discovery and properties prediction in thermal transport via materials informatics: a mini review](https://pubs.acs.org/doi/full/10.1021/acs.nanolett.8b05196), **Xiao Wan<sup>#</sup>**,Wentao Feng<sup>#</sup>, YunpengWang, HaidongWang, Xing Zhang, Chengcheng Deng, Nuo Yang*, Nano Letters 19 (6), 3387 (2019).
